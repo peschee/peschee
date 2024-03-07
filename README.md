@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My GitHub](https://github-readme-stats.vercel.app/api?username=peschee&count_private=true&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peschee&count_private=true&hide=html&langs_count=6&exclude_repo=flake-os,oat-compiler&show_icons=true&layout=compact)
-
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=peschee&count_private=true&show_icons=true" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peschee&count_private=true&size_weight=0.5&count_weight=0.5&show_icons=true&layout=compact" />
+</a>
